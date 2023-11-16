@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1699154721 source:c:\users\cesar\onedrive\Área de trabalho\teste\main.c
+	<stdio.h>
+	<stdlib.h>
+	<sys/time.h>
+
+1699030460 source:c:\users\cesar\onedrive\Área de trabalho\teste\testtime.c
+	<time.h>
+	<stdio.h>
+
+1699030460 c:\users\cesar\onedrive\Área de trabalho\teste\testtime.c
+	<time.h>
+	<stdio.h>
+
